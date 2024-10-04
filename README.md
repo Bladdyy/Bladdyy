@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **A loooot of things, but mostly machine learning.**
 
-- 👨‍💻 Most of my projects are available [right here!](right here!)
+- 👨‍💻 Most of my projects are available right here!
 
 - 📫 How to reach me **juliuszpawlus@gmail.com**
 
