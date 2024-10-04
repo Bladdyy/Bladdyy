@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I'm Juliusz Pawlus</h1>
-<h3 align="center">Welcome to my profile!</h3>
+<h1 align="center">Hi! I'm Juliusz</h1>
+<h3 align="center"> Nice to see you!</h3>
 
 - 🔭 I’m currently working on **soon come...**
 
