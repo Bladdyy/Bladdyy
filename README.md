@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **juliuszpawlus@gmail.com**
 
-- ⚡ Fun fact **I love bats and chameleons**
+- ⚡ Fun fact **I love bats and chameleons**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
