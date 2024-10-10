@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **soon come...**
 
-- 🌱 I’m currently learning **a loooot of things, but mostly machine learning and Ocaml.**
+- 🌱 I’m currently learning **a loooot of things, but mostly machine learning and OCaml.**
 
 - 👨‍💻 Most of my projects are available **right here**!
 
