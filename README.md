@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Juliusz</h1>
 <h3 align="center"> Nice to see you!</h3>
 
-- 🔭 I’m currently working on **soon come...**
+- 🔭 I’m currently working with Hexanity!
 
 - 🌱 I’m currently learning **a loooot of things, but mostly machine learning and OCaml.**
 
